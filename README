@@ -1,0 +1,5 @@
+
+
+Dev deployment is usually via grails build-standalone.
+
+See http://tedwise.com/2012/03/28/getting-the-grails-standalone-plugin-to-work-with-grails-201/ for the black magic needed to get this working
